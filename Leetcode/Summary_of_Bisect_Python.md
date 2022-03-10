@@ -1,5 +1,5 @@
 # Summary of bisect
-[bisect souce code] (https://svn.python.org/projects/python/branches/pep-0384/Lib/bisect.py)
+[bisect souce code](https://svn.python.org/projects/python/branches/pep-0384/Lib/bisect.py)
 
 ## 1. bisect_left()
 
