@@ -2,6 +2,11 @@ LinkedHashMap = HashMap + Insertion Order;
 
 Used to solve: 1. [LRU cache](https://leetcode.com/problems/lru-cache/);
 
+# TODO
+1. Rewrite with DLinkedList and HashMap;
+2. Experiment with Java;
+
+
 # Java
 ```java
 public class LinkedHashMap<K,​V> extends HashMap<K,​V> implements Map<K,​V>
@@ -56,3 +61,11 @@ new LinkedHashMap<Integer, String>() {
 [reference 1](https://www.geeksforgeeks.org/linkedhashmap-class-in-java/)
 
 [reference 2](https://www.geeksforgeeks.org/linkedhashmap-class-in-java/)
+
+# Python -> OrderedDict
+```python3
+od = OrderedDict()
+for key, value in od.items():
+    print(key,value)
+od.pop('c')
+```
