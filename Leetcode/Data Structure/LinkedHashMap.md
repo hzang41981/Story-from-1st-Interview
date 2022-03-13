@@ -1,5 +1,6 @@
-LinkedHashMap = HashMap + Insertion Order /n
-Used to solve: 1. [LRU cache](https://leetcode.com/problems/lru-cache/)
+LinkedHashMap = HashMap + Insertion Order;
+
+Used to solve: 1. [LRU cache](https://leetcode.com/problems/lru-cache/);
 
 # Java
 ```java
